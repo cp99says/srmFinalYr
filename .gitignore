@@ -1,0 +1,6 @@
+Emotion-detection/src/data
+Emotion-detection/src/haarcascade_frontalface_default.xml
+Emotion-detection/src/model.h5
+Include/
+Lib/
+Scripts/
